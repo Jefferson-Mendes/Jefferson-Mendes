@@ -51,6 +51,8 @@ Gosto de aprender sobre tecnologia, no momento estou estudando Quality Assurance
 
 <br>
 
+[![Jefferson's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jefferson-Mendes&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://[github.com/Jefferson-Mendes](https://github.com/Jefferson-Mendes)/github-readme-activity-graph)
+
 ### Social 👨 
 ----
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-mendes-a58795244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BJyrc0zESTWLLy1Y%2BKzHjw%3D%3D)
